@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-remote-theme
+remote_theme: pmarsceill/just-the-docs
+title: "Deep10ds"
+tagline: deep10ds Project Documentations
+author.name: dee10ds
+author.url: https://github.com/deep10ds
+
+aux_links:
+  "Deep10ds on GitHub":
+    - "//github.com/deep10ds"
