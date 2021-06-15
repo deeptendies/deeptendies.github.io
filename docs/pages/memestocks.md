@@ -4,17 +4,19 @@ title: Meme Stonks, WSB Stocks Tracker
 nav_order: 4
 has_children: false
 ---
+
+[View in Google Sheets](https://docs.google.com/spreadsheets/d/1tSmq01DeeYYBCnyQG7psQXCs3HIwHQsrxTR7MUlH1MU/edit?usp=sharing)
+
 <style>
 .responsive-wrap iframe{ 
-    max-width: 100%;
-    width:100%;
-    height:100%;
+    display: block;       /* iframes are inline by default */
+    background: #000;
+    border: none;         /* Reset default border */
+    height: 100vh;        /* Viewport-relative units */
+    width: 100vw;
     }
-html{
-    height: 100%;
-}, 
 body {
-    min-height: 100%;
+    margin: 0;            /* Reset default margin */
 }
 </style>
 <div class="responsive-wrap">
