@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Meme Stonks" WSB Stocks Tracker
-nav_order: 3
+nav_order: 4
 has_children: false
 ---
 <style>
