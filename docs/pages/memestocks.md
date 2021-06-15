@@ -5,7 +5,11 @@ nav_order: 4
 has_children: false
 ---
 <style>
-.responsive-wrap iframe{ max-width: 100%;}
+.responsive-wrap iframe{ 
+    max-width: 100%;
+    width:100%;
+    height:100%;
+    }
 </style>
 <div class="responsive-wrap">
 <!-- this is the embed code provided by Google -->
