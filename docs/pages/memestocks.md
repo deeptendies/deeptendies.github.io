@@ -10,6 +10,10 @@ has_children: false
     width:100%;
     height:100%;
     }
+html, 
+body {
+    height: 100%;
+}
 </style>
 <div class="responsive-wrap">
 <!-- this is the embed code provided by Google -->
