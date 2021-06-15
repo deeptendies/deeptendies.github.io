@@ -10,9 +10,11 @@ has_children: false
     width:100%;
     height:100%;
     }
-html, 
-body {
+html{
     height: 100%;
+}, 
+body {
+    min-height: 100%;
 }
 </style>
 <div class="responsive-wrap">
